@@ -43,14 +43,17 @@ This provides a simple demonstration of dynamic text updates in Android using XM
 ### **Home Screen**
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/54807edf-e690-4401-bda5-055ee2e248aa" /> 
 
-### **Text Updated**
-
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/01c16c01-df26-4dd6-ba0e-8c74d4b99b9d" />
-
 ### **GUNI Map Opened**
 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f6ddd8e4-11ea-4b7a-a2b2-7ad0e37e36be" />
 
+### **Twin Animation**
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e8f9d550-127e-4927-90f8-571afa4d3d21" />
+
+### **Text Updated**
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/01c16c01-df26-4dd6-ba0e-8c74d4b99b9d" />
 
 ---
 
